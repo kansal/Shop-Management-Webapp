@@ -9,4 +9,4 @@ shop goes below certain level. It also handles the database of temporary employe
 
 Screenshot
 ----------
-![alt text](http://web.iiit.ac.in/~kshitij.kansal/DB.jpg)
+![alt text](http://web.iiit.ac.in/~kshitij.kansal/DB.png)
